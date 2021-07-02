@@ -9,3 +9,6 @@ The results indicate that the customized Tiny-YOLOv4 model has the potentiality 
 
 ## Tiny-YOLOv4 Output:
 ![yolov4Tiny](https://user-images.githubusercontent.com/71173101/124332900-fbbb5b00-db92-11eb-8c12-1937c6b6a79f.gif) <br/>
+
+## YOLOv4 Output:
+![yolov4](https://user-images.githubusercontent.com/71173101/124333464-94060f80-db94-11eb-9d17-f98379b256ab.gif) <br/>
