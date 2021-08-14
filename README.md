@@ -7,6 +7,9 @@ The deployed solution in this thesis on NVIDIA Jetson TX2 board with MAX-N mode 
 
 The results indicate that the customized Tiny-YOLOv4 model has the potentiality of real-time object detection with highest FPS of 21 and the customized YOLOv4 model with highest mAP of 97.03% and 96% of F1-score.<br/>
 
+# Output Results on NVIDIA Jetson TX2:
+[Video link of Demonstration](https://user-images.githubusercontent.com/71173101/129432310-c8ec9373-734b-4855-b2d2-cd395080d23c.mp4) <br/>
+
 ## Tiny-YOLOv4 Output:
 ![yolov4Tiny](https://user-images.githubusercontent.com/71173101/124332900-fbbb5b00-db92-11eb-8c12-1937c6b6a79f.gif) <br/>
 
