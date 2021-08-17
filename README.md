@@ -15,3 +15,10 @@ The results indicate that the customized Tiny-YOLOv4 model has the potentiality 
 
 ## YOLOv4 Output:
 ![yolov4](https://user-images.githubusercontent.com/71173101/124333464-94060f80-db94-11eb-9d17-f98379b256ab.gif) <br/>
+
+## Detection Samples:
+![59135708-parked-cars-on-the-parking-top-view-vector-urban-transport-concept-auto-parking-and-empty-place-for-](https://user-images.githubusercontent.com/71173101/129675240-e7804e5d-2bc6-42c5-9f31-19babdf6f9ad.png)
+![11013343_test19](https://user-images.githubusercontent.com/71173101/129675280-7fee400c-13f2-4e5e-9f4a-9e64351e1c52.png)
+![game](https://user-images.githubusercontent.com/71173101/129675319-3376088b-00a7-4559-83bc-0a2e10570958.png)
+![photo-1506883968894-6e7738ccfc05](https://user-images.githubusercontent.com/71173101/129675414-b09e4f1b-2b1a-49d0-aa28-cc889ba5e0b1.png)
+![esy-009178041](https://user-images.githubusercontent.com/71173101/129675474-39b69920-6e11-4eb5-815b-3088aa01066d.png)
